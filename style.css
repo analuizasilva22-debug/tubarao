@@ -1,21 +1,24 @@
-body{
-    color:rgb(0, 0, 0);
+body {
+    color: rgb(0, 0, 0);
     background-color: rgb(116, 164, 236);
-    margin:0px;
-    font-family:"Merriweather", sans-serif;
+    margin: 0px;
+    font-family: "Merriweather", sans-serif;
 }
 
-header{
+header {
     border-bottom: solid 2px rgb(255, 249, 249);
     padding: 20px;
     font-size: 32px;
-    color:rgb(0, 0, 0)
+    color: rgb(0, 0, 0)
 }
 
-section{
-    background: green;
+section {
+    background: rgb(171, 194, 255);
     padding-bottom: 80px;
     padding-top: 80px;
     display: flex;
     justify-content: center;
+}
+.chamada-texto{
+    margin-right: 5%;
 }
