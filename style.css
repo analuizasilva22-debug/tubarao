@@ -31,7 +31,7 @@ p{
 img{
     height: 200px;
 }
-.categoria-video{
+.categoria-videos{
     display: flex;
     overflow-x: auto;
     gap: 10px;
@@ -40,7 +40,7 @@ img{
     padding-left: 20px;
     padding-right: 20px;
 }
-.categoria-video img{
+.categoria-videos img{
     opacity: 0.5;
     height: 200px;
 }
